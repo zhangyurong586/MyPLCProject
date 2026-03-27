@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<RSLogix5000Content SchemaRevision="1.0" SoftwareRevision="36.01" TargetName="MainProject_v1" TargetType="Controller" ContainsContext="false" ExportDate="Fri Mar 27 00:46:15 2026" ExportOptions="NoRawData L5KData DecoratedData ForceProtectedEncoding AllProjDocTrans">
+<RSLogix5000Content SchemaRevision="1.0" SoftwareRevision="36.01" TargetName="MainProject_v1" TargetType="Controller" ContainsContext="false" ExportDate="Fri Mar 27 00:55:53 2026" ExportOptions="NoRawData L5KData DecoratedData ForceProtectedEncoding AllProjDocTrans">
 <Controller Use="Target" Name="MainProject_v1" ProcessorType="1756-L85E" MajorRev="36" MinorRev="11" ProjectCreationDate="Sat Mar 07 03:09:52 2026" LastModifiedDate="Fri Mar 27 00:45:57 2026" SFCExecutionControl="CurrentActive" SFCRestartPosition="MostRecent" SFCLastScan="DontScan" CommPath="AB_ETHIP-1\192.168.1.20"
  ProjectSN="16#00f8_a06f" MatchProjectToController="false" CanUseRPIFromProducer="false" InhibitAutomaticFirmwareUpdate="0" PassThroughConfiguration="EnabledWithAppend" DownloadProjectDocumentationAndExtendedProperties="true" DownloadProjectCustomProperties="true" ReportMinorOverflow="false" AutoDiagsEnabled="true" WebServerEnabled="false">
 <RedundancyInfo Enabled="false" KeepTestEditsOnSwitchOver="false"/>
